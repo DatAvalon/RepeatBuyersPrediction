@@ -10,9 +10,10 @@ https://tianchi.aliyun.com/competition/entrance/231576/information
     We submit the prediction through the account named "我爱电子商务课", the performance is as follows:
 |AUC (online)|rank|
 |:-----:|:-----:|
-|0.618154|309/2978|  
+|0.623210|307/3000|  
 ### Future improvement
+* Focus on feature engineering, try using some tricks like rank Gauss method, which may increase 0.02.
 * Instead of using basic classifiers, try using LightGBM, XGBoost, or Catboost to ensemble, which may increase 0.002.
-* Use grid search for hyperparameter tuning, which may increase 0.001.
+* Use grid search for hyperparameter tuning, which may increase 0.002.
 
 
