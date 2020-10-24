@@ -1,4 +1,4 @@
-ECommerce Coursework
+Ecommerce Coursework
 =====================
 Group Assignment 2 (Research) 
 
