@@ -3,6 +3,7 @@ Ecommerce Coursework
 Group Assignment 2 (Research) 
 
 Class 2 Group 2
+> Repurchase or Non-repurchase Classification Based on Stacked Generalization
 
 Data set can be found from: 
 https://tianchi.aliyun.com/competition/entrance/231576/information
