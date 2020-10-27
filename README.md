@@ -14,6 +14,6 @@ https://tianchi.aliyun.com/competition/entrance/231576/information
 ### Future improvement
 * Focus on feature engineering, try using some tricks like rank Gauss method, which may increase 0.02.
 * Instead of using basic classifiers, try using LightGBM, XGBoost, or Catboost to ensemble, which may increase 0.002.
-* Use grid search for hyperparameter tuning, which may increase 0.002.
+* Use T-SNE to visualize the effectiveness of sampling instead of PCA to perform better dimensionality reduction.
 
 
